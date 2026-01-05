@@ -38,7 +38,7 @@ MOTLPRAD (Multi-Omics integration Transfer Learning framework for PRAD) is a fra
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/wan-mlab/MOTLPRAD.git
 cd MOTLPRAD-main
 ```
 
